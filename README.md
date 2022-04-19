@@ -3,7 +3,10 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatIMI
+
+转自：
+https://github.com/arcxingye/EatKano
 
 _🦌 网页小游戏 🥛_
 
